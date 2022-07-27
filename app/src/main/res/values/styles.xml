@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="app_title_style" parent="@style/TextAppearance.MaterialComponents.Headline5">
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">20dp</item>
+    </style>
+
+    <style name="app_description_style" parent="@style/TextAppearance.MaterialComponents.Body1">
+        <item name="android:layout_margin">15dp</item>
+<!--        <item name="android:gravity">center</item>-->
+        <item name="android:layout_height">25dp</item>
+    </style>
+
+    <style name="input_box_style" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_margin">15dp</item>
+    </style>
+
+    <style name="create_colour_button_style" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_margin">15dp</item>
+    </style>
+
+
+
+</resources>
